@@ -16,9 +16,17 @@ The extension uses the API of "haveibeenpwned" to determine the breach status of
 ## How to configure?
 1.Latest version of Nodejs should be installed
 2.yarn should be installed
-3.Use the command "npm install --save plasmo"
+3.Use the command:
+```typescript
+    npm install --save plasmo"
+```
+
+
 
 ## How to run?
-1.Run the code using the command "yarn dev"
+1.Run the code using the command 
+```typescript
+    yarn dev
+```
 2.Add the extension to your chrome and pin it
 
